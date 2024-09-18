@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @lokeshgoud000
+- 👀 I’m interested in software development and exploring the fundamentals of coding and technology.
+- 🌱 I’m currently learning advanced programming concepts and working on personal projects to build my skills.
+- 💞️ I’m looking to collaborate on internships and projects where I can contribute and grow as a developer.
+- 📫 How to reach me:
+  - Phone: 0426 713 699
+  - Email: lokeshgoud000@gmail.com
+- 😄 Pronouns: Lokesh
+- ⚡ Fun fact: The dawn is upon us, and I'm ready to code my way through it!
